@@ -1,6 +1,6 @@
 {
   "name": "pretty-console-colors",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "🌈 Shows your the consoles in the terminal much more friendly.",
   "main": "index.js",
   "repository": {
