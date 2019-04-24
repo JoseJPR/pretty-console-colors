@@ -1,5 +1,5 @@
 {
-  "name": "console-colors",
+  "name": "pretty-console-colors",
   "version": "1.0.0",
   "description": "🌈 Shows your the consoles in the terminal much more friendly.",
   "main": "index.js",
