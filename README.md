@@ -2,12 +2,12 @@
 
 🌈 Shows your the consoles in the terminal much more friendly.
 
-![Console colors](src/screen.jpg)
+![Console colors](./src/screen.jpg)
 
 ## Installation
 
 ```bash
-npm i console-colors
+npm i pretty-console-colors
 ```
 
 ## Run
@@ -16,7 +16,8 @@ Include the library in your main file.
 
 ```js
 // Get color Console Libary
-require('console-colors');
+require('pretty-console-colors');
+
 // Show pretty console logs
 console.log('👋 Log: Hi from NodeJS');
 console.info('👋 Info: Hi from NodeJS');
@@ -29,7 +30,7 @@ node .
 ```
 
 ## Maintainers
-![JoseJPR Avatar](src/photo-josejpr.png) \
+![JoseJPR Avatar](./src/photo-josejpr.png) \
 [@JoseJPR](https://github.com/JoseJPR)
 
 ## Contact
