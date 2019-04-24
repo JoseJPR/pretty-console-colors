@@ -1,0 +1,16 @@
+{
+  "name": "console-colors",
+  "version": "1.0.0",
+  "description": "🌈 Shows your the consoles in the terminal much more friendly.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoseJPR/node-console-colors.git"
+  },
+  "author": "José J. Pérez Rivas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoseJPR/node-console-colors/issues"
+  },
+  "homepage": "https://github.com/JoseJPR/node-console-colors#readme"
+}
