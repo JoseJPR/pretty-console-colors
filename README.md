@@ -2,7 +2,7 @@
 
 🌈 Shows your the consoles in the terminal much more friendly.
 
-![Console colors](./src/screen.jpg)
+![Console colors](https://github.com/JoseJPR/pretty-console-colors/raw/master/src/screen.jpg)
 
 ## Installation
 
@@ -30,7 +30,7 @@ node .
 ```
 
 ## Maintainers
-![JoseJPR Avatar](./src/photo-josejpr.png) \
+![JoseJPR Avatar](https://github.com/JoseJPR/pretty-console-colors/raw/master/src/photo-josejpr.png) \
 [@JoseJPR](https://github.com/JoseJPR)
 
 ## Contact
