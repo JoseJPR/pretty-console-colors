@@ -1,14 +1,20 @@
 {
   "name": "pretty-console-colors",
-  "version": "1.0.2",
-  "description": "🌈 Shows your the consoles in the terminal much more friendly.",
+  "version": "1.0.3",
+  "description": "🌈 Show your console messages much more visible and intuitive. The terminal much more friendly.",
   "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/JoseJPR/node-console-colors.git"
   },
-  "author": "José J. Pérez Rivas",
-  "license": "ISC",
+  "keywords": [
+    "JavaScript",
+    "Node",
+    "Cosole",
+    "Colors"
+  ],
+  "author": "José J. Pérez Rivas <me@josejpr.com>",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/JoseJPR/node-console-colors/issues"
   },

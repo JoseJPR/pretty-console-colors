@@ -29,6 +29,10 @@ console.error('👋 Error: Hi from NodeJS');
 node .
 ```
 
+## Example
+You can see an example 
+[HERE](https://github.com/JoseJPR/pretty-console-colors/example)
+
 ## Maintainers
 ![JoseJPR Avatar](https://github.com/JoseJPR/pretty-console-colors/raw/master/src/photo-josejpr.png) \
 [@JoseJPR](https://github.com/JoseJPR)
