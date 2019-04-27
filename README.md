@@ -2,7 +2,7 @@
 
 🌈 Shows your the consoles in the terminal much more friendly.
 
-![Console colors](https://github.com/JoseJPR/pretty-console-colors/raw/master/src/screen.jpg)
+![Console colors](src/screen.jpg)
 
 ## Installation
 
@@ -31,10 +31,10 @@ node .
 
 ## Example
 You can see an example 
-[HERE](https://github.com/JoseJPR/pretty-console-colors/example)
+[HERE](example/README.md)
 
 ## Maintainers
-![JoseJPR Avatar](https://github.com/JoseJPR/pretty-console-colors/raw/master/src/photo-josejpr.png) \
+![JoseJPR Avatar](src/photo-josejpr.png) \
 [@JoseJPR](https://github.com/JoseJPR)
 
 ## Contact
