@@ -1,6 +1,6 @@
 # Pretty Console Colors [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
-🌈 Shows your the consoles in the terminal much more friendly.
+🌈 Show your console messages much more visible and intuitive. The terminal much more friendly.
 
 ![Console colors](src/screen.jpg)
 
