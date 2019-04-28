@@ -7,8 +7,8 @@ const colors = {
 
 const infoLog = console.info;
 const logLog = console.log;
-const errorLog = console.error;
 const warnLog = console.warn;
+const errorLog = console.error;
 
 console.log = function(args) {
   const copyArgs = Array.prototype.slice.call(arguments);

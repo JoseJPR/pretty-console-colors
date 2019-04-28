@@ -1,6 +1,6 @@
 {
   "name": "pretty-console-colors",
-  "version": "1.0.5",
+  "version": "1.0.7",
   "description": "🌈 Show your console messages much more visible and intuitive. The terminal much more friendly.",
   "main": "index.js",
   "repository": {
@@ -8,10 +8,11 @@
     "url": "git+https://github.com/JoseJPR/pretty-console-colors.git"
   },
   "keywords": [
-    "JavaScript",
+    "Terminal",
     "Node",
-    "Cosole",
-    "Colors"
+    "Console",
+    "Colors",
+    "JavaScript"
   ],
   "author": "José J. Pérez Rivas <me@josejpr.com>",
   "license": "MIT",
