@@ -1,3 +1,5 @@
+const d = Date.now();
+
 const colors = {
   Reset: "\x1b[0m",
   Red: "\x1b[31m",
@@ -12,25 +14,23 @@ const errorLog = console.error;
 
 console.log = function(args) {
   const copyArgs = Array.prototype.slice.call(arguments);
-  copyArgs.unshift(colors.Reset);
-  copyArgs.push(colors.Reset);
+  copyArgs.unshift(`🕐 ${d} ${colors.Reset}👀   [LOG]${colors.Reset}`);
   infoLog.apply(null,copyArgs);
-};
+}
 console.info = function(args) {
   const copyArgs = Array.prototype.slice.call(arguments);
-  copyArgs.unshift(colors.Green);
-  copyArgs.push(colors.Reset);
+  copyArgs.unshift(`🕐 ${d} ${colors.Green}☕️  [INFO]${colors.Reset}`);
   infoLog.apply(null,copyArgs);
 };
+
 console.warn = function(args) {
   const copyArgs = Array.prototype.slice.call(arguments);
-  copyArgs.unshift(colors.Yellow);
-  copyArgs.push(colors.Reset);
+  copyArgs.unshift(`🕐 ${d} ${colors.Yellow}⚠️  [WARN]${colors.Reset}`);
   warnLog.apply(null,copyArgs);
 };
+
 console.error = function(args) {
   const copyArgs = Array.prototype.slice.call(arguments);
-  copyArgs.unshift(colors.Red);
-  copyArgs.push(colors.Reset);
-  errorLog.apply(null,copyArgs);
+  copyArgs.unshift(`🕐 ${d} ${colors.Red}⁉️ [ERROR]${colors.Reset}`);
+  warnLog.apply(null,copyArgs);
 };

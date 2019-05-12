@@ -2,7 +2,6 @@
 require('pretty-console-colors');
 
 // Include list emojis and axios dependences
-const emojis = require('emojis-list');
 const axios = require('axios');
 
 // Set logs type
@@ -17,14 +16,10 @@ async function getCommet() {
   }
 }
 
-function rand(){
-  return Math.floor(Math.random() * 2000);
-}
-
 async function showCommet() {
   const commet = await getCommet();
   typeLogs.map(x => {
-    console[x](emojis[rand()] + " " + commet.data);
+    console[x](commet.data);
   });
 }
 

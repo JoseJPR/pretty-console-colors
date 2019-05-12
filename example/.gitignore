@@ -1,0 +1,5 @@
+.DS_Store
+.npmignore
+src/.DS_Store
+/node_module
+package-lock.json
