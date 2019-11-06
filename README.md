@@ -16,7 +16,7 @@ Include the library in your main file.
 
 ```js
 // Get color Console Libary
-import 'pretty-console-colors';
+require('pretty-console-colors');
 
 // Show pretty console logs
 console.log('👋 Log: Hi from NodeJS');
