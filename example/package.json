@@ -10,7 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.18.0",
-    "emojis-list": "^2.1.0",
     "pretty-console-colors": "^1.0.2"
   }
 }

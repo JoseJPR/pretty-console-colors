@@ -1,7 +1,7 @@
 // Get color Console Libary
-require('pretty-console-colors');
+require('../index');
 
-// Include list emojis and axios dependences
+// Include axios dependences
 const axios = require('axios');
 
 // Set logs type

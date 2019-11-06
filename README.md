@@ -2,7 +2,7 @@
 
 🌈 Show your console messages much more visible and intuitive. The terminal much more friendly.
 
-![Console colors](src/screen.jpg)
+![Console colors](assets/screen.jpg)
 
 ## Installation
 
@@ -16,7 +16,7 @@ Include the library in your main file.
 
 ```js
 // Get color Console Libary
-require('pretty-console-colors');
+import 'pretty-console-colors';
 
 // Show pretty console logs
 console.log('👋 Log: Hi from NodeJS');
@@ -34,7 +34,7 @@ You can see an example
 [HERE](example/README.md)
 
 ## Maintainers
-![JoseJPR Avatar](src/photo-josejpr.png) \
+![JoseJPR Avatar](assets/photo-josejpr.png) \
 [@JoseJPR](https://github.com/JoseJPR)
 
 ## Contact

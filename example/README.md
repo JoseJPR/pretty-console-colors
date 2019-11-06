@@ -1,6 +1,6 @@
 # Example Pretty Console Colors
 
-![Example Console colors](src/banner.gif)
+![Example Console colors](../assets/banner.gif)
 ## Installation
 
 ```bash
