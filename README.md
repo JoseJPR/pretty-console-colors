@@ -1,16 +1,26 @@
 # Pretty Console Colors [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
+## Description
+
 🌈 Show your console messages much more visible and intuitive. The terminal much more friendly.
 
 ![Console colors](assets/screen.jpg)
 
-## Installation
+## 📌 Methodologies and Guidelines
+
+Quality Assurance Code (QAC)
+
+* ESTlint, tool for identifying and reporting on patterns found in ECMAScript/JavaScript code. \
+  [NPM ESLint](https://www.npmjs.com/package/eslint) \
+  [NPM ESLint | Airbnb](https://www.npmjs.com/package/eslint-config-airbnb)
+
+## 📐 Installation
 
 ```bash
 npm i pretty-console-colors
 ```
 
-## Run
+## 🚀 Run
 
 Include the library in your main file.
 
