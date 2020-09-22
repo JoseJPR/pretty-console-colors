@@ -1,14 +1,10 @@
 # Example Pretty Console Colors
 
-![Example Console colors](../assets/banner.gif)
-## Installation
+## Install and Run
 
 ```bash
-npm i
-```
-
-## Run
-
-```bash
-node .
+# Install npm dependencies
+$npm i
+# Run this example
+$node .
 ```
